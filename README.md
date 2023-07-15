@@ -2,6 +2,8 @@
 
 <h3> Python script that can be used to debug and correct HTML5, PHP, JavaScript, CSS, and Bootstrap code. </h3>
 
+<h6> Cross Platform Mac/Win/Linux </h6>
+
 Example usage
 
 debug_all('index.html') 
