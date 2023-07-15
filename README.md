@@ -3,10 +3,15 @@
 <h3> Python script that can be used to debug and correct HTML5, PHP, JavaScript, CSS, and Bootstrap code. </h3>
 
 Example usage
+
 debug_all('index.html')
+
 debug_all('script.js')
+
 debug_all('style.css')
+
 debug_all('script.php')
+
 
 The debug_html function uses the html5validator tool to validate HTML files 
 
@@ -27,13 +32,17 @@ You can modify and extend this script as needed to suit your specific requiremen
 To run the installation, open a terminal or command prompt, navigate to the Debugit directory, and execute the appropriate command
 
 MacOS:
+
 bash install.sh
 
 Linux 
+
 chmod +x install.sh
+
 /.install.sh
 
 Windows:
+
 install.bat
 
 
