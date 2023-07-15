@@ -31,9 +31,8 @@ To run the installation, open a terminal or command prompt, navigate to the Debu
 MacOS: 
 bash install.sh
 
-Linux 
-chmod +x install.sh
-
+Linux:
+chmod +x install.sh &&
 /.install.sh
 
 Windows: 
