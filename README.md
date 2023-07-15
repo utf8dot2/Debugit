@@ -2,14 +2,14 @@
 
 <h3> Python script that can be used to debug and correct HTML5, PHP, JavaScript, CSS, and Bootstrap code. </h3>
 
-<h6> Cross Platform Mac/Win/Linux </h6>
+<h4> Cross Platform Mac/Win/Linux </h4>
 
 Example usage
 
-debug_all('index.html') 
-debug_all('script.js') 
-debug_all('style.css') 
-debug_all('script.php') 
+debug_all('index.html') <br>
+debug_all('script.js') <br>
+debug_all('style.css') <br>
+debug_all('script.php') <br>
 
 
 The debug_html function uses the html5validator tool to validate HTML files 
@@ -26,18 +26,16 @@ The debug_all function determines the file type based on its extension and calls
 
 You can modify and extend this script as needed to suit your specific requirements. 
 
-
-
 To run the installation, open a terminal or command prompt, navigate to the Debugit directory, and execute the appropriate command
 
-MacOS: 
+MacOS: <br>
 bash install.sh
 
-Linux:
+Linux: <br>
 chmod +x install.sh &&
 ./install.sh
 
-Windows: 
+Windows: <br>
 install.bat
 
 
