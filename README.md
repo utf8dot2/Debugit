@@ -33,7 +33,7 @@ bash install.sh
 
 Linux:
 chmod +x install.sh &&
-/.install.sh
+./install.sh
 
 Windows: 
 install.bat
